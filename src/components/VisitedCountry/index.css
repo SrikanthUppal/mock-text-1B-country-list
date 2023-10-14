@@ -1,0 +1,32 @@
+.list-item {
+  width: 32%;
+  height: 32%;
+  margin-bottom: 12px;
+  margin-right: 12px;
+  background-color: #1f1f2f;
+}
+.visited-country-image {
+  width: 100%;
+}
+.name-button-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+.name {
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 400;
+  color: #cbd5e1;
+}
+.remove-btn {
+  background-color: transparent;
+  border: 1px solid #94a3b8;
+  border-radius: 4px;
+  padding: 5px 8px 5px 8px;
+  color: #cbd5e1;
+  font-family: 'Roboto';
+  font-size: 12px;
+}
